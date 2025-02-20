@@ -27,10 +27,3 @@ I'm the CTO at [BugBase](https://bugbase.ai), where I’m exploring AI and cyber
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adityapeela/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adityapeela) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya530026@gmail.com)
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=adityamhn&icon=6&color=1" alt="Visitor Count" />
-  </a>
-</p>
